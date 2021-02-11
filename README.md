@@ -4,9 +4,9 @@ Use Terraform to provision an Azure VM Scaleset running Wordpress.
 
 ## Prerequisites
 
-[Terraform](https://www.terraform.io)
-[Azure subscription](https://azure.microsoft.com/en-us/free)
-[Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
+* [Terraform](https://www.terraform.io)
+* [Azure subscription](https://azure.microsoft.com/en-us/free)
+* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
 
 ## How to use
 
